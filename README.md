@@ -14,6 +14,7 @@ I'm a dedicated Electrical & Computer Engineering graduate with a deep passion f
 
 - **Backend Development**: Building scalable, reliable systems.
 - **Java**: My favorite language for developing backend services.
+- **Mendix**: My favorite low-code development tool for building scalable and efficient applications with ease.
 - **Spring Boot**: Hands-on experience building microservices and RESTful APIs.
 - **Docker & Kubernetes**: Containerizing applications and orchestrating them with Kubernetes for efficient deployment.
 
